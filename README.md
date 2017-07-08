@@ -38,11 +38,14 @@
    As with startups,
    it's always best to learn on someone else's dime...
 
- 5. **Leave space.**
-    If you're too engaged or too quick on the reply button, people have less opportunity to
-    grow as members and to create horizontal collaborations.  The community can remain a
-    vertical one, focused on one or two individuals, rather than a distributed one where
-    others feel comfortable participating.
+ 5. **Make space for everyone.**
+    If you're too engaged or too quick on the reply button,
+    people have less opportunity to grow as members
+    and to create horizontal collaborations.
+    The community can continue to be "hub and spoke",
+    focused around one or two individuals,
+    rather than a highly-connected network
+    in which others feel comfortable participating.
 
 [bpco]: https://www.amazon.com/Building-Powerful-Community-Organizations-Personal/dp/0977151808/
 [coc]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
