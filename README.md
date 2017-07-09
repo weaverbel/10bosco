@@ -7,14 +7,24 @@
     Resources we have found particularly useful include *[Building Powerful Community Organizations][bpco]*
     and *[Producing Open Source Software][poss]*.
 
-2.  **Make it a democracy.**
+2.  **Join, don't start.**
+    Many community organizations dedicated to open science already exist,
+    from [Hacker Within][hw] and the projects sheltered by [NumFOCUS][numfocus]
+    to free-range projects like [ESIP][esip] and [rOpenSci][ropensci]
+    and various professional societies.
+    Before creating a new one,
+    see if there's one you could join:
+    this will give you a head start
+    and a chance to learn more about how to run things.
+
+3.  **Make it a democracy.**
     Sooner or later (usually sooner),
     every appointed board turns into a mutual agreement society.
     Giving the community power is messy,
     but is the only way invented so far to ensure that
     an organization continues to meet the actual needs of the people it's supposed to be helping.
 
-3.  **Provide training.**
+4.  **Provide training.**
     Organizations require committees, meetings, budgets, grant proposals, and dispute resolution.
     Most researchers are never taught how to do any of this,
     despite the fact that universities depend on them too.
@@ -22,10 +32,10 @@
     and gives participants a powerful reason to get and stay involved.
     If you aren't large enough to provide training,
     join an organization that is and take some of theirs.
-    As with startups,
+    As with Rule 2,
     it's always best to learn on someone else's dime.
 
-4.  **Communicate.**
+5.  **Communicate.**
     Nobody's going to come to a meeting unless they know about it,
     and nobody's going to help you raise money if they don't know how you're going to spend it.
     Mailing lists, blogs, and Twitter all give you ways to stay in touch.
@@ -33,7 +43,7 @@
     but use them.
     *[Marketing for Scientists][kuchner]* is a good place to start for guidance.
 
-5.  **Write down the rules.**
+6.  **Write down the rules.**
     As Jo Freeman described in "[The Tyranny of Structurelessness][structurelessness]",
     every organization has a power structure:
     the only question is whether it's formal and accountable,
@@ -46,7 +56,7 @@
     and what actually constitutes inappropriate conduct.
     (This [model anti-harassment policy][coc] is a good start.)
 
-6.  **Make space for everyone.**
+7.  **Make space for everyone.**
     If you're too engaged or too quick on the reply button,
     people have less opportunity to grow as members
     and to create horizontal collaborations.
@@ -55,11 +65,9 @@
     rather than a highly-connected network
     in which others feel comfortable participating.
 
-6.  **FIXME**
+8.  **FIXME**
 
-6.  **FIXME**
-
-6.  **FIXME**
+9.  **FIXME**
 
 10. **Move on.**
     Every organization eventually needs fresh ideas and fresh leadership.
@@ -74,8 +82,14 @@
 
 [bpco]: https://www.amazon.com/Building-Powerful-Community-Organizations-Personal/dp/0977151808/
 [coc]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
+[dc]: http://datacarpentry.org
+[esip]: http://www.esipfed.org/
+[hw]: http://thehackerwithin.org
 [kuchner]: https://www.amazon.com/Marketing-Scientists-Shine-Tough-Times/dp/1597269948/
+[numfocus]: http://numfocus.org
 [poss]: http://producingoss.com/
+[ropensci]: http://ropensci.org
+[swc]: http://software-carpentry.org
 [structurelessness]: http://www.jofreeman.com/joreen/tyranny.htm
 [turk]: https://ischool.illinois.edu/people/faculty/mjturk
 [wilson]: http://third-bit.com
