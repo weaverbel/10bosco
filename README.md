@@ -14,8 +14,8 @@
 
 1.  **Join, don't start.**
     Many community organizations dedicated to open science already exist,
-    from [Hacker Within][hw] and the projects sheltered by [NumFOCUS][numfocus]
-    to free-range projects like [ESIP][esip] and [rOpenSci][ropensci]
+    including [Hacker Within][hw], [ESIP][esip], [rOpenSci][ropensci],
+    the projects sheltered by [NumFOCUS][numfocus],
     and various professional societies.
     Before creating a new one,
     see if there's one you could join:
@@ -28,6 +28,13 @@
     Giving the community power is messy,
     but is the only way invented so far to ensure that
     an organization continues to meet the actual needs of the people it's supposed to be helping.
+
+1.  **Make it rewarding.**
+    The community organizer [Saul Alinksy][alinsky] said,
+    "If your people aren't having a ball doing it, there is something very wrong."
+    Community members shouldn't expect to enjoy every moment of their work with your organization,
+    but if they don't enjoy any of it,
+    they won't stay.
 
 1.  **Provide training.**
     Organizations require committees, meetings, budgets, grant proposals, and dispute resolution.
@@ -85,6 +92,7 @@
     Celebrate that---you won't have any trouble finding
     something else to keep you busy.
 
+[alinsky]: https://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134/
 [bpco]: https://www.amazon.com/Building-Powerful-Community-Organizations-Personal/dp/0977151808/
 [coc]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
 [dc]: http://datacarpentry.org
