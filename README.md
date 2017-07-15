@@ -77,6 +77,15 @@
     rather than a highly-connected network
     in which others feel comfortable participating.
 
+1.  **Soup, then hymns.**
+    Manifestos are great,
+    but most people join a volunteer community to help and be helped.
+    Focus on things that are immediately useful,
+    e.g.,
+    on what can people create that will be used by other community members write away.
+    Once your organization shows that it can actually achieve things---even small things---people
+    will be more confident that it's worth thinking about bigger issues.
+
 1.  **FIXME**
 
 1.  **FIXME**
