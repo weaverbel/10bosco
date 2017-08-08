@@ -90,7 +90,10 @@
     Community collaborative work only works if your work is aligned with a shared agenda of the broader community. 
 
 1.  **Staff creates a backbone organization**
-    It is unfair to put the burden of infrastructure on volunteers. If you have staff, it is a good idea to pay for infrastructure and allow the volunteers to create on top of the intrastructure. In addition, let infrastructure be led by community expressed needs. 
+    It is unfair to put the burden of infrastructure on volunteers. If you have staff, it is a good idea to pay for infrastructure and allow the volunteers to create on top of the intrastructure. In addition, let infrastructure be led by community expressed needs and not the next shiny new 'toy'. ALSO - if the community is happily collaborating on a platform do not try to move them. 
+    
+1.  **Be nice or at least respectful**
+   Everyone deserves respect. Communities need to have some moderating force. If you see someone that is not acting in line with your code of conduct or values, privately say something or tell a leader of the community and ask them to privately say something. Bullies that persist in communities have a toxic effect and should not be allowed to linger.  
 
 1.  **Move on.**
     Every organization eventually needs fresh ideas and fresh leadership.
