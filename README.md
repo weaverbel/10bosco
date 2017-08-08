@@ -86,9 +86,11 @@
     Once your organization shows that it can actually achieve things---even small things---people
     will be more confident that it's worth thinking about bigger issues.
 
-1.  **FIXME**
+1.  **Be Selfish**
+    Community collaborative work only works if your work is aligned with a shared agenda of the broader community. 
 
-1.  **FIXME**
+1.  **Staff creates a backbone organization**
+    It is unfair to put the burden of infrastructure on volunteers. If you have staff, it is a good idea to pay for infrastructure and allow the volunteers to create on top of the intrastructure. In addition, let infrastructure be led by community expressed needs. 
 
 1.  **Move on.**
     Every organization eventually needs fresh ideas and fresh leadership.
