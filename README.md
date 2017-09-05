@@ -1,6 +1,6 @@
 # Ten Simple Rules for Building Open Science Community Organizations
 
-[Matthew Turk][turk] and [Greg Wilson][wilson]
+[Matthew Turk][turk], [Greg Wilson][wilson] and [Belinda Weaver][weaver]
 
 > Please:
 >
@@ -106,6 +106,15 @@
     watching something you helped build take on a life of its own.
     Celebrate that---you won't have any trouble finding
     something else to keep you busy.
+    
+1.  **Be Trusting**
+    Let people bring good ideas to the table and let those ideas be heard. Then if enough people agree with that idea, 
+    trust that person to get on with it. 
+    Micromanaging or trying to control everything centrally means people won't feel they have the autonomy to act.
+    That will probably cause them to drift away.
+    Trusting people
+    to step up to their commitments is a great way to foster development of both the individual 
+    and the community as a whole.
 
 [alinsky]: https://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134/
 [bpco]: https://www.amazon.com/Building-Powerful-Community-Organizations-Personal/dp/0977151808/
@@ -121,3 +130,4 @@
 [structurelessness]: http://www.jofreeman.com/joreen/tyranny.htm
 [turk]: https://ischool.illinois.edu/people/faculty/mjturk
 [wilson]: http://third-bit.com
+[weaver]: http://software-carpentry.org 
